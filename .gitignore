@@ -38,9 +38,3 @@ lerna-debug.log*
 # secret
 
 smart-contracts/.secret
-
-# wrapmeister stuff
-peercoin
-db
-logs
-persist/*
